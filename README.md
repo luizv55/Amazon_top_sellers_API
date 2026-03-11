@@ -2,6 +2,13 @@
 
 ### Índice
 
+1.  [Visão geral do projeto](#1-Visão-geral-do-projeto)
+      * [API em Produção](#API-em-Produção)
+      * [Arquitetura](#Arquitetura)
+2.  [Utilização da API](#2-Utilização-da-API)
+      * [Execução local](#Execução-local)
+3.  [Documentação das Endpoints](#3-Documentação-das-Endpoints)
+4.  [Exemplos](#4-Exemplos)
 
 -----
 ## 1\. Visão geral do projeto
