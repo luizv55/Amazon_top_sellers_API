@@ -1,3 +1,4 @@
+
 # Projeto API: Scrapping de livros mais vendidos na Amazon Brasil
 
 ### Índice
@@ -30,7 +31,8 @@ A documentação pode ser acessada em:
 **https://amazon-top-sellers-api-5.onrender.com/docs**
 
 ### Arquitetura
-<img width="1158" height="471" alt="esquema de dados" src="https://github.com/user-attachments/assets/4101b805-1e45-46b4-b6a6-b854cd154c6a" />
+<img width="1615" height="656" alt="preview" src="https://github.com/user-attachments/assets/b49d839d-d9ae-402e-955f-1e2b3979dba0" />
+
 
   * **/app**: Contém a lógica da API e a ingestão no banco de dados.
   * **/etl**: Contém o algoritmo de scrapping com a limpeza dos dados.
