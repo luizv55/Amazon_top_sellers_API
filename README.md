@@ -47,7 +47,7 @@ Para utilizarmos os dados de tdos os livros da API dentro do nosso ambiente loca
 ```bash
 import requests
 
-url = "https://api.exemplo.com/produtos](https://amazon-top-sellers-api-5.onrender.com/livros"
+url = "https://amazon-top-sellers-api-5.onrender.com/livros"
 
 response = requests.get(url)
 
